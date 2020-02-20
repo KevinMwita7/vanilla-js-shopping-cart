@@ -1,0 +1,66 @@
+{
+"posts":[
+    {
+        "id": "0",
+        "src": "/images/butterfly.jpg",
+        "avatar": "/images/30x30.png",
+        "uploader": "Shrek Ogre",
+        "title": "Butterfly",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem aperiam officia aut quisquam consequuntur reprehenderit ullam eos cum tenetur, architecto dolorem atque id nemo omnis odio vel maxime similique laudantium.",
+        "price": "4000"
+    },
+    {
+        "id": "1",
+        "src": "/images/d.jpg",
+        "avatar": "/images/30x30.png",
+        "uploader": "Barrack Obama",
+        "title": "Dishonored",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem aperiam officia aut quisquam consequuntur reprehenderit ullam eos cum tenetur, architecto dolorem atque id nemo omnis odio vel maxime similique laudantium.",
+        "price": "14000"
+    },
+    {
+        "id": "2",
+        "src": "/images/landing.jpg",
+        "avatar": "/images/30x30.png",
+        "uploader": "Chuck Norris",
+        "title": "People viewing art",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem aperiam officia aut quisquam consequuntur reprehenderit ullam eos cum tenetur, architecto dolorem atque id nemo omnis odio vel maxime similique laudantium.",
+        "price": "8000"
+    },
+    {
+        "id": "3",
+        "src": "/images/personpainting.jpg",
+        "avatar": "/images/30x30.png",
+        "uploader": "Shawn Carter",
+        "title": "Person painting",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem aperiam officia aut quisquam consequuntur reprehenderit ullam eos cum tenetur, architecto dolorem atque id nemo omnis odio vel maxime similique laudantium.",
+        "price": "16000"
+    },
+    {
+        "id": "4",
+        "src": "/images/butterfly.jpg",
+        "avatar": "/images/30x30.png",
+        "uploader": "Nasir Olu Daru",
+        "title": "butterfly",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem aperiam officia aut quisquam consequuntur reprehenderit ullam eos cum tenetur, architecto dolorem atque id nemo omnis odio vel maxime similique laudantium.",
+        "price": "12000"
+    },
+    {
+        "id": "5",
+        "src": "/images/grey-background-man-arms-folded.jpg",
+        "avatar": "/images/30x30.png",
+        "uploader": "Eliott Keino",
+        "title": "Man arms folded",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem aperiam officia aut quisquam consequuntur reprehenderit ullam eos cum tenetur, architecto dolorem atque id nemo omnis odio vel maxime similique laudantium.",
+        "price": "7000"
+    },
+    {
+        "id": "6",
+        "src": "/images/man-dark-bg-arms-folded-behind.jpg",
+        "avatar": "/images/30x30.png",
+        "uploader": "Chinada Chinangozi",
+        "title": "Arms folded behind",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem aperiam officia aut quisquam consequuntur reprehenderit ullam eos cum tenetur, architecto dolorem atque id nemo omnis odio vel maxime similique laudantium.",
+        "price": "600"
+    }
+]}
